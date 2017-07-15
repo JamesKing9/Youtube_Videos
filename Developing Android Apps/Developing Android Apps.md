@@ -17,19 +17,15 @@
 ## Storyline
 
 Dan_Gauthan :
+>My goal is to keep us on track to make Sunshine, something that had some resemblance to a production quality app. 
+>I'll introduce Android design patterns and principles. Many of which are often missed by new Android develpers. You'll learn to lean on the framework, focusing on what makes your app unique instead of reinventing the wheel. 
 
-```mark
-My goal is to keep us on track to make Sunshine, something that had some resemblance to a production quality app. 
-I'll introduce Android design patterns and principles. Many of which are often missed by new Android develpers. You'll learn to lean on the framework, focusing on what makes your app unique instead of reinventing the wheel. 
-```
 
- 
 
 Rado_Mya:
 
-```mark
-and I've been a developer advocate for Android at Google for five years. I started working on Androids so long ago that back then there were no devices. All we had to work with were an emulator, a beater SDK, and an almost fanatical devotion to the plateform. I'll be joining you from here, my underground Android developer bunker, and my goal isn't to get you up and running as quickly as possible.
-```
+>and I've been a developer advocate for Android at Google for five years. I started working on Androids so long ago that back then there were no devices. All we had to work with were an emulator, a beater SDK, and an almost fanatical devotion to the platform. I'll be joining you from here, my underground Android developer bunker, and my goal isn't to get you up and running as quickly as possible.
+
 
 
 
