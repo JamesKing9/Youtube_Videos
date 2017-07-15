@@ -4,13 +4,19 @@
 
 > Dan_Gauthan
 
-<img src=".\image\2017716-13152.jpg" style="height:260px">  
+<img src=".\image\1.jpg" style="height:260px">  
 
 ---
 
 > Rado_Mya
 
-<img src=".\image\Rado Mya.jpg" style="height:260px"> 
+<img src=".\image\3.jpg" style="height:260px"> 
+
+---
+
+> Katherine_Kwan
+
+<img src=".\image\2.jpg" style="height:260px"> 
 
 ---
 
