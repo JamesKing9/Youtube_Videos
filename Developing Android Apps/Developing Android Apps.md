@@ -4,13 +4,13 @@
 
 > Dan_Gauthan
 
-<img src="C:\Users\Administrator\Pictures\2017716-13152.jpg" style="height:260px">  
+<img src=".\image\2017716-13152.jpg" style="height:260px">  
 
 ---
 
 > Rado_Mya
 
-<img src="C:\Users\Administrator\Pictures\Rado Mya.jpg" style="height:260px"> 
+<img src=".\image\Rado Mya.jpg" style="height:260px"> 
 
 ---
 
